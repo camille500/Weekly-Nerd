@@ -2,7 +2,7 @@
 This are all the notes and articles from the Weekly Nerd sessions we had during the Minor Web Development 2017.
 
 ## Articles
-- [Article 1 - Git for Dummies]('/articles/git.md')
+- [Article 1 - Git for Dummies](/articles/git.md)
 - [Article 2 - So many features, so many browsers]('/articles/features.md')
 - [Article 3 - Why you should(n’t) use JavaScript frameworks]('/articles/libraries.md')
 - [Article 4 - The living devices, the web of things]('/articles/iot.md')
