@@ -3,10 +3,10 @@ This are all the notes and articles from the Weekly Nerd sessions we had during 
 
 ## Articles
 - [Article 1 - Git for Dummies](/articles/git.md)
-- [Article 2 - So many features, so many browsers]('/articles/features.md')
-- [Article 3 - Why you should(n’t) use JavaScript frameworks]('/articles/libraries.md')
-- [Article 4 - The living devices, the web of things]('/articles/iot.md')
-- [Article 5 - Developing for the blind]('/articles/blind.md')
+- [Article 2 - So many features, so many browsers](/articles/features.md)
+- [Article 3 - Why you should(n’t) use JavaScript frameworks](/articles/libraries.md)
+- [Article 4 - The living devices, the web of things](/articles/iot.md)
+- [Article 5 - Developing for the blind](/articles/blind.md)
 
 ## Notes
 These are a small resume's of the weekly nerd sessions
